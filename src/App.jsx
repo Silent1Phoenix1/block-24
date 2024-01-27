@@ -1,4 +1,6 @@
 import './App.css'
+import {puppyList} from './data.js'
+
 
 function App() {
       <div>
@@ -6,3 +8,4 @@ function App() {
 }
 
 export default App
+export {puppyList}
